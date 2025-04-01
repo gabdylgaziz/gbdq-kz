@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gbdq.kz</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on gbdq.kz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>gbdq.kz</copyright>
+    <lastBuildDate>Tue, 01 Apr 2025 16:22:01 +0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 01 Apr 2025 16:22:01 +0500</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Telegram: &lt;a href=&#34;https://t.me/gabdyq&#34;&gt;@gabdyq&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
